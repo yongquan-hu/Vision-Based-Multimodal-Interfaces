@@ -2,6 +2,12 @@
 # Vision-Based Multimodal Interfaces (VMIs): A Survey and Taxonomy for Enhanced Context-Aware System Design
 The ACM CHI Conference on Human Factors in Computing Systems 2025 (CHI 2025) - full paper: survey material including codebook for the paper
 
+<p align="center">
+  <img src="https://github.com/yongquan-hu/Vision-Based-Multimodal-Interfaces/blob/main/VMIs_title.png" width="600" alt="VMIs Teaser">
+</p>
+
+**[🔗 teaser.pdf – Vision-Based Multimodal Interfaces](https://github.com/yongquan-hu/Vision-Based-Multimodal-Interfaces/blob/main/teaser.pdf)**
+
 # Check Paper:
 ACM Library: [https://dl.acm.org/doi/10.1145/3610921](https://dl-acm-org/doi/10.1145/3706598.3714161)
 ArXiv: [https://arxiv.org/html/2407.15722v1](https://arxiv.org/abs/2501.13443)
@@ -31,6 +37,7 @@ The recent surge in artificial intelligence, particularly in multimodal processi
 
 # Dataset (Open Source)
 OneDrive Download Link: Coming Soon
+
 
 # Notice
 This dataset is only used for academic purposes. If it is used for commercial or other profit-making purposes, legal liability will be pursued.
