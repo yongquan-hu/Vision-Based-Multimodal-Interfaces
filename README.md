@@ -8,7 +8,7 @@ This repository provides the official paper, citation, and supplementary materia
 </p>
 
 <p align="center">
-  <img src="https://github.com/yongquan-hu/Vision-Based-Multimodal-Interfaces/blob/main/VMIs_teaser.png" width="600" alt="VMIs Teaser">
+  <img src="https://github.com/yongquan-hu/Vision-Based-Multimodal-Interfaces/blob/main/teaser.png" width="600" alt="VMIs Teaser">
 </p>
 
 ---
