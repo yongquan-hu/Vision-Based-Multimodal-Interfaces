@@ -3,10 +3,12 @@
 The ACM CHI Conference on Human Factors in Computing Systems 2025 (CHI 2025) - full paper: survey material including codebook for the paper
 
 <p align="center">
-  <img src="https://github.com/yongquan-hu/Vision-Based-Multimodal-Interfaces/blob/main/VMIs_title.png" width="600" alt="VMIs Teaser">
+  <img src="https://github.com/yongquan-hu/Vision-Based-Multimodal-Interfaces/blob/main/VMIs_title.png" width="600" alt="VMIs Title">
 </p>
 
-**[🔗 teaser.pdf – Vision-Based Multimodal Interfaces](https://github.com/yongquan-hu/Vision-Based-Multimodal-Interfaces/blob/main/teaser.pdf)**
+<p align="center">
+  <img src="https://github.com/yongquan-hu/Vision-Based-Multimodal-Interfaces/blob/main/teaser.png" width="600" alt="VMIs Teaser">
+</p>
 
 # Check Paper:
 ACM Library: [https://dl.acm.org/doi/10.1145/3610921](https://dl-acm-org/doi/10.1145/3706598.3714161)
