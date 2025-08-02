@@ -1,10 +1,14 @@
 
-# Vision-Based Multimodal Interfaces
+# Vision-Based Multimodal Interfaces (VMIs): Vision-Based Multimodal Interfaces: A Survey and Taxonomy for Enhanced Context-Aware System Design
 
 This repository provides the official paper, citation, and supplementary materials for our CHI 2025 paper on **Vision-Based Multimodal Interfaces (VMIs)**.
 
 <p align="center">
-  <img src="https://github.com/yongquan-hu/Vision-Based-Multimodal-Interfaces/blob/main/VMIs_title.png" width="600" alt="VMIs Teaser">
+  <img src="https://github.com/yongquan-hu/Vision-Based-Multimodal-Interfaces/blob/main/VMIs_title.png" width="600" alt="VMIs Title">
+</p>
+
+<p align="center">
+  <img src="https://github.com/yongquan-hu/Vision-Based-Multimodal-Interfaces/blob/main/VMIs_teaser.png" width="600" alt="VMIs Teaser">
 </p>
 
 ---
@@ -32,7 +36,8 @@ This repository provides the official paper, citation, and supplementary materia
 
 
 ### MLA
-Hu, Yongquan ‘Owen, et al. "Vision-based multimodal interfaces: A survey and taxonomy for enhanced context-aware system design." Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems. 2025.
+Hu, Yongquan ‘Owen’, et al. "Vision-based multimodal interfaces: A survey and taxonomy for enhanced context-aware system design." Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems. 2025.
+
 
 
 ## 🧠 Abstract
